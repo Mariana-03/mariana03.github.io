@@ -1,0 +1,22 @@
+  <style>
+            #important-materials {
+                background-color : rgb(230,230,213);
+                width:80%;
+                height: 180px;
+                overflow: auto;
+            
+            
+            }
+            #couch {
+                width:250px;
+                position: absolute;
+                top: 20px;
+                left: 10px;
+            }
+        </style>
+        <div id="important-materials"><h2>Porque los materiales son importantes</h2>
+        <img src= "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.es%2Fsofassinfin%2Fsof%25C3%25A1s-modernos%2F&psig=AOvVaw1B-wUjWCuG1efLy1XqsOS3&ust=1616382495537000&source=images&cd=vfe&ved=0CAYQjRxqFwoTCNjTrpW0wO8CFQAAAAAdAAAAABAE" id= "couch">
+    <p> Los materiales que se utilicen en la construccion y como decoracion son sumamente importantes. Por ejemplo, dependiendo del material con el que se elabore la casa, determinara que tan resistente es o si sera una casa en donde haga calor o frio. En un teatro por ejemplo, se deben utilizar materiales especificos de modo que el sonido quede bien distribuido y no rebote. En los ciens, se deben utilizar materiales especiales para poder aislar el sonido.
+    </p>
+    <p> En el caso de la decoracion es importante como se vea y como se seinta, por ejemplo no se puede combinar una cobija rugosa con un sofa que tiene una tela suave,porque afectaria el ambiente y se volveria incomodo</p>
+        </div> 
