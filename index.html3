@@ -1,0 +1,28 @@
+           <style>
+        body {
+            font-size: 12px;
+        }
+        h2 {
+            color: rgb(0, 232, 15);
+            font-size: 1.5em;
+        }  
+        
+        #rabbits-info-heading {
+            background-color: purple;
+        }
+        
+        p {
+            color: rgb(191, 0, 255);
+            font-family: "Helvetica", sans-serif;
+        }
+        
+        </style>
+        <h2>Importancia de lo colores</h2>
+     
+        <body>
+            
+        
+            <p>A la hora de diseñar un espacio es importante el uso de lo colores y que estos sea utilizados adecuadamente.Ya que un espacio puede verse muz bien o muz mal dependiendo que de que colores se hazan utilizado. El color tiene la capacidad de estimular o deprimir,de generar alegria o tristeza, esto le llamamos pscicologia del color.</p>
+            <p>Por ejemplo,el rojo transmite pasion, atrevimiento,importancia z fuerya,pero tambien transmite desafio,agresion,impacto o tension.El amarillo transmite energia,vitalidad,diversion,seguridad,calidez, pero puede tambien verse como privacion,frustracion o inmadurez. El azul transmite inteligencia,confianza,serenidad,reflexion,calma pero tambien transmite frialdad,distanciamiento o falta emocional. El morado transmite lujo, misterio, creatividad, verdad pero tambien introversion o decadencia.</p>
+            <p> Y asi con todos lo colores,podemos ver ejemplos en los parques los juegos son de color amarillo,azul y/o verde. O los restaurante o marcas, tiene el color rojo ty a marillo,son colores que llaman mucho la atencion. En el hogar o lugar de trabajo funciona igual colores demasiado opacos puede afectar el area emocional o la forma en que te desempeñas .</p>
+        </body>
